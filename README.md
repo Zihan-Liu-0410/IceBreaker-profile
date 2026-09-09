@@ -1,4 +1,4 @@
 # IceBreaker-profile
-My name is Zihan Liu
-I like baking 
-I'm a data science major
+My name is Zihan Liu/n
+I like baking/n
+I'm a data science major/n
